@@ -1,0 +1,6 @@
+# Torrens Survey Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://torrenssurveyco.com/sitemap-index.xml

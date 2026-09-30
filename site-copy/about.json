@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About Torrens Survey Co | Land Surveying in Adelaide",
+  "metaDescription": "How Torrens Survey Co works: an advertising and introduction service that helps Adelaide owners scope the right survey first. Call now on (08) 5550 3814.",
+  "h1": "About Torrens Survey Co: Helping Adelaide Owners Work Out Which Survey They Need",
+  "heroSub": "An advertising and introduction service for Greater Adelaide and the Adelaide Hills. It doesn't survey and holds no surveying licence. What it does is help you scope the job before you talk to a surveyor.",
+  "storyHtml": "<p>Torrens Survey Co is an advertising and introduction service for Adelaide property owners. It doesn't survey, employs no surveyors and holds no licence under the Survey Act 1992. It puts you in touch with an independent Licensed Surveyor, who quotes and contracts directly with you. That gets said first, because a survey site that blurs it isn't one to trust.</p><p>The site is built for the step before the quote. Most owners arrive with a situation rather than a survey type: a neighbour who disagrees about a fence line, a designer or council asking for levels, a block they might split, a house they're about to buy, or pegs that have gone missing. The pages sort those situations into four survey types, <a href=\"/boundary-surveys/\">boundary</a>, <a href=\"/feature-and-level-surveys/\">feature and level</a>, <a href=\"/land-division-surveys/\">land division</a> and <a href=\"/identification-surveys/\">identification</a>, and explain what each one produces. That way you can describe the job in a surveyor's terms when you ring, and sometimes the honest answer is that a conversation with your neighbour, the council or a conveyancer comes before any survey.</p><p>Every fee, timeline and legal statement on the site traces back to a published source: the Survey Act 1992, the Surveyors Board of South Australia, SA Government pages, Land Services SA and the state planning fee notice. Government fees carry the financial year they apply to. Where nobody publishes a number, the site says so. Very few Adelaide surveyors publish prices for boundary or feature and level work, so the <a href=\"/land-surveying-cost-adelaide/\">cost page</a> says surveyors quote each job instead of inventing a range.</p><p>There are also things the site won't do. It won't tell you where your boundary is, whether a fence sits on or off the line, or whether a land division will be approved. In South Australia only licensed surveyors can undertake a boundary survey or place a survey mark that defines a property boundary, as the Surveyors Board puts it, and approval decisions sit with the council and state planning. Before you engage anyone, check their licence on the Surveyors Board register.</p>",
+  "values": [
+    {
+      "title": "Plain about what we are",
+      "desc": "Torrens Survey Co is advertising and introductions, nothing more. It carries no surveying licence and doesn't do the survey. The surveyor who quotes your job is independent and contracts directly with you."
+    },
+    {
+      "title": "Scope before spend",
+      "desc": "Each survey type answers a different question: where the boundary is, what the ground and structures look like, whether a block can be divided, or where existing boundaries sit for the record. Sorting out which one you need first can save you paying for the wrong one."
+    },
+    {
+      "title": "Sourced numbers or no numbers",
+      "desc": "Fees and timelines come from named public sources, with the financial year on government charges. If a figure isn't published, the site writes around it and tells you the surveyor will quote after seeing the title and the block."
+    },
+    {
+      "title": "The right person makes each decision",
+      "desc": "Boundary questions go to a Licensed Surveyor. Legal questions go to a conveyancer or lawyer. Approvals go to the council and PlanSA. Neighbour disputes can go to the Legal Services Commission or Community Mediation Services."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Torrens Survey Co a surveying company?",
+      "a": "No. It's an advertising and introduction service. It doesn't survey, doesn't employ surveyors and holds no licence or registration under the Survey Act 1992. The independent Licensed Surveyor you are introduced to quotes and contracts directly with you, so check their licence before you agree to anything."
+    },
+    {
+      "q": "How do I check that a surveyor is licensed in South Australia?",
+      "a": "The Surveyors Board of South Australia keeps a register of Licensed and Registered Surveyors. You can email the Registrar at registrar@isasa.org.au or phone (08) 8212 0343, or look up the list published in the South Australian Government Gazette. The Board also advises checking that any firm you engage uses a surveyor who is licensed in South Australia."
+    },
+    {
+      "q": "What should I have ready before I call (08) 5550 3814?",
+      "a": "Have the address, your certificate of title if you have it, and a sentence on what set this off. That might be a neighbour disagreeing about a fence, a designer or council asking for levels, a possible split, a purchase, or missing pegs. The honest first step is often working out which kind of survey fits, so it's fine if you're not sure yet."
+    }
+  ]
+}
